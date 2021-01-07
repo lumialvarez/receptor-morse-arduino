@@ -18,6 +18,6 @@ Estos son los siguientes componentes usados:
 
 #### Esquema Electrico 
 Este es el esquema electrico usado para este receptor, notese que el led es opcional ya que solo sirve como ayuda visual para indicar cuando está recibiendo una señal
-![Codigo Morse](https://github.com/lumialvarez/receptor-morse-arduino/blob/main/Recursos/esquema_electrico_transmisor_morse.png?raw=true)
+![Codigo Morse](https://github.com/lumialvarez/receptor-morse-arduino/blob/main/Recursos/esquema_electrico_receptor_morse.png?raw=true)
 
 > Written with [StackEdit](https://stackedit.io/).
